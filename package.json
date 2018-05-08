@@ -1,0 +1,22 @@
+{
+  "name": "@codex-protocol/eslint-config-vue",
+  "version": "1.0.0",
+  "description": "An eslint config for all Codex Protocol projects using Vue & Babel.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codex-protocol/npm.eslint-config-vue"
+  },
+  "authors": [
+    "Colin Wood <colin@codexprotocol.com>"
+  ],
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/codex-protocol/npm.eslint-config-vue/issues"
+  },
+  "homepage": "https://github.com/codex-protocol/npm.eslint-config-vue",
+  "peerDependencies": {
+    "@codex-protocol/eslint-config-base": "^1.0.0",
+    "eslint-plugin-vue": "^4.5.0"
+  }
+}
