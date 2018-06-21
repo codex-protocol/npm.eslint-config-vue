@@ -14,7 +14,7 @@
   "authors": [
     "Colin Wood <colin@codexprotocol.com>"
   ],
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/codex-protocol/npm.eslint-config-vue/issues"
   },
