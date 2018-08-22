@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "bump-version": "npm version patch -m \"Bumps version to %s\" && npm publish",
-    "bump-minor-version": "npm version minor -m \"Bumps version to %s\" && npm publish"
+    "bump-minor-version": "npm version minor -m \"Bumps version to %s\" && npm publish",
+    "bump-major-version": "npm version major -m \"Bumps version to %s\" && npm publish"
   },
   "repository": {
     "type": "git",
