@@ -19,8 +19,7 @@
     "url": "https://github.com/codex-protocol/npm.eslint-config-vue/issues"
   },
   "homepage": "https://github.com/codex-protocol/npm.eslint-config-vue",
-  "peerDependencies": {
-    "@codex-protocol/eslint-config-base": "^1.0.0",
-    "eslint-plugin-vue": "^4.5.0"
+  "dependencies": {
+    "@vue/eslint-config-airbnb": "^3.0.1"
   }
 }
